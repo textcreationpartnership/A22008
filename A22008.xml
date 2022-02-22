@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King as often as we call to minde the most ioyfull and iust recognition made by the whole body of our realme, in the first session of our high court of Parliament ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1604</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22008</idno>
+            <idno type="STC">STC 8361</idno>
+            <idno type="STC">ESTC S122983</idno>
+            <idno type="EEBO-CITATION">33150676</idno>
+            <idno type="OCLC">ocm 33150676</idno>
+            <idno type="VID">28701</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22008)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28701)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King as often as we call to minde the most ioyfull and iust recognition made by the whole body of our realme, in the first session of our high court of Parliament ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>3 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1604.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For declaring the royal style and title.</note>
+                  <note>Other title information from first 3 lines of text.</note>
+                  <note>"Giuen at our Pallace of Westminster the twentieth day of October, in the second yeere of our Raigne of England, France and Ireland, and of Scotland the eight and thirtieth."</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  I, --  King of England, 1566-1625 --  Titles.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:28701:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <head>
+               <figure>
+                  <figDesc>royal blazon of the House of Stuart</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>S often as We call to minde the moſt ioyfull and</hi> iuſt Recognition made by the whole body of our Realme, in the firſt Seſſion of our High Court of Parliament, of that bleſſing which it hath pleaſed God to reſerue many yeeres in his Prouidence to our Perſon, and now in the fulneſſe of the time of his Diſpoſition, to beſtow vpon Vs; Namely the bleſſed Vnion, or rather Reuniting of theſe two mightie, fa<g ref="char:EOLhyphen"/>mous, and ancient Kingdomes of England and Scotland, vnder one Imperiall Crowne: So often doe We thinke, that it is our duetie, to doe our vttermoſt endeuour, for the aduancement and perfection of that woorke, which is of his beginning, and whereof hee hath giuen ſo many palpable ſignes and Arguments, as hee that ſeeth them not, is blinde, and hee that impugneth them, doeth but endeuour to ſeparate that, which God hath put together. For, to omit thoſe things which are euident to ſenſe, That the Iſle within it ſelfe hath almoſt none but imaginarie bounds of ſeparation without, but one common limit or rather Gard of the Ocean Sea, making the whole a little world within it ſelfe, the Nations an vniformitie of conſtitutions both of body and minde, eſpecially in Martiall proweſſes, A communitie of Language, the princi<g ref="char:EOLhyphen"/>pall meanes of Ciuil ſocietie, An vnitie of Religion, the chiefeſt band of heartie Vnion, and the ſureſt knot of laſting Peace: What can be a more expreſſe Teſtimonie of Gods authoritie of this worke, then that two mightie Nations, hauing bene euer from their firſt ſeparation continually in blood each againſt other, ſhould for ſo many yeres immediatly before our Succeſſion, be at peace together, as it were to this end, That their memory being free from ſence of the ſmart of former iniuries, their minds might, in the time of Gods appointment, more willingly come together, That it hath pleaſed him ſo to diſpoſe, that this Vnion is not inforced by Conqueſt and violence, nor contracted by doubt<g ref="char:EOLhyphen"/>full and deceiuable points of tranſaction, but naturally deriued from the Right and Title of the pre<g ref="char:EOLhyphen"/>cedent Princes of both Kingdomes, concurring in our Perſon, alike lineally deſcended from the blood of both through the Sacred coniunction of Wedlocke, An Vnion which is the worke of God and Nature, and whereunto the workes of Force or Policie cannot attaine? Wee may addehere<g ref="char:EOLhyphen"/>unto that which We haue receiued from thoſe that be ſkilfull in the Lawes of this Land, That im<g ref="char:EOLhyphen"/>mediatly
+<pb facs="tcp:28701:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 38 -->vpon our Succeſſion, diuers of the ancient Lawes of this Realme are <hi>Ipſo facto</hi> expired, As namely, that of Eſcuage, and of the Naturalization of the Subiects, And that there is a greater affinitie and concurrence betweene moſt of the ancient Lawes of both Kingdomes, then is to be found betweene thoſe of any other two Nations, As namely, in ſtates of Inheritance and Free<g ref="char:EOLhyphen"/>hold, as Fee-ſimple, Fee-taile, Tenant for life, by Courteſie, Dower, and ſuch like, In Caſes of deſ<g ref="char:EOLhyphen"/>cents of Inheritance, In Tenures of Lands, as of Knights ſeruice, Socage, Franke Almoigne, Burgage, Villenage, and ſuch like, In Writts and formes of Proceſſe, In caſes of Triall by Iu<g ref="char:EOLhyphen"/>ries, Grand Iuries; And laſtly in Officers and Miniſters of Iuſtice, As Sheriffes, Coroners, and ſuch like, which We leaue to be further conſidered by the Commiſſioners of both Realmes.</p>
+            <p>All which being matter prepared onely by the Prouidence of Almightie God, and which by hu<g ref="char:EOLhyphen"/>mane Induſtrie could not haue bene ſo ordered; Wee, and all our Subiects ought firſt with reue<g ref="char:EOLhyphen"/>rence to acknowledge his Handie-worke therein, and to giue him our moſt humble thankes for the ſame, and then to further by our endeuours that, which his Wiſedome doth by ſo many ſignes point out to be his Will: Whereof many particularities depending vpon the determinations of the States and Parliaments of both Realmes, We leaue them there to be diſcuſſed, according to the Commiſ<g ref="char:EOLhyphen"/>ſions graunted by the ſeuerall Actes of both Parliaments. And ſome other things reſting in Our owne Imperiall Power, as the Head of both, We are purpoſed towards the building of this excel<g ref="char:EOLhyphen"/>lent worke, to doe by Our ſelfe that, which iuſtly and ſafely Wee may by Our abſolute power doe. And for a firſt ſtone of this worke, whereupon the reſt may be layed, ſeeing there is vndoubtedly but one Head to both Peoples, which is Our ſelfe; And that vnfainedly We haue but one Heart and Minde to communicate equally to both States, as Lines iſſuing from one Center, Our Iuſtice, our Fauours, and whatſoeuer elſe dependeth vpon the Vnitie of Our Supreme power ouer both, (God hauing miniſtred to Vs ſo iuſt cauſe to imbrace them both with equall and indifferent Loue, in as much as Our Birth, and the firſt part of Our life hath been in the one, and the later part there<g ref="char:EOLhyphen"/>of is like to be for the moſt part in the other:) Wee thinke it vnreaſonable, that the thing, which is by the worke of God and Nature ſo much in effect one, ſhould not be one in name; Vnitie in name being ſo fit a meanes to imprint in the hearts of people, a Character and memoriall of that Vnitie, which ought to be amongſt them indeede.</p>
+            <p>Wherefore Wee haue thought good to diſcontinue the diuided names of England and Scot<g ref="char:EOLhyphen"/>land out of our Regall Stile, and doe intend and reſolue to take and aſſume vnto Vs in maner and forme hereafter expreſſed, The Name and Stile of <hi>KING OF GREAT BRITTAINE,</hi> including therein according to the trueth, the whole Iſland. Wherein no man can imagine Vs to be led by an humour of Vaineglory or Ambition, becauſe wee ſhould in that caſe, rather delight in a long enumeration of many Kingdomes and Seigniories, (whereof in Our Inheritance We haue plentie enough, if Wee thought there were glory in that kind of Stile) but onely that Wee vſe it as a ſignification of that, which in part is already done, and a ſignificant Prefiguration of that, which is to be done hereafter; Nor that We couet any new affected Name deuiſed at Our pleaſure, but out of vndoubted knowledge doe vſe the true and ancient Name, which God and Time haue impoſed vpon this Iſle, extant, and receiued in Hiſtories, in all Mappes and Cartes, wherein this Iſle is deſcribed, and in ordinary Letters to Our ſelfe from diuers Forraine Princes, warranted alſo by Authenticall Charters, Exemplifications vnder Seales, and other Records of great Antiquitie, gi<g ref="char:EOLhyphen"/>uing
+<pb facs="tcp:28701:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 39 -->Vs preſident for our doing, not borowed out of Forraine Nations, but from the Actes of our Progenitors, Kings of this Realme of England, both before and ſince the Conqueſt, hauing not had ſo iuſt and great cauſe as We haue.</p>
+            <p>Vpon all which conſiderations We doe by theſe Preſents, by force of our Kingly Power and Prerogatiue, aſſume to Our ſelfe by the cleereneſſe of our Right, The Name and Stile of <hi>KING OF GREAT BRITTAINE, FRANCE, AND IRELAND, DEFENDER OF THE FAITH, &amp;c.</hi> as followeth in Our iuſt and lawfull Stile, And doe hereby pub<g ref="char:EOLhyphen"/>liſh, promulge and declare the ſame, to the ende that in all Proclamations, Miſſiues forreine, and Domeſticall, Treaties, Leagues, Dedicatories, Impreſſions, and in all other caſes of like nature, the ſame may be vſed and obſerued. And to the ende the ſame may be the ſooner and more vniuer<g ref="char:EOLhyphen"/>ſally diuulged both at Home and abroad: Our will and pleaſure is, That the ſame Stile be from hencefoorth vſed vpon all Inſcriptions vpon our currant Moneys and Coynes of Gold and Siluer hereafter to be Minted. And for that Wee doe not Innouate or aſſume to Vs any new thing, but declare that which is and hath bene euident to all; Our will and pleaſure is, That in ſuch Appel<g ref="char:EOLhyphen"/>lations or Nominations, as ſhall be hereafter made by force of theſe preſents, the ſame ſhall bee ex<g ref="char:EOLhyphen"/>preſſed in ſuch and the ſame maner and forme, and after ſuch computation, as if we had aſſumed and declared the ſame the firſt day of our Raigne of our Realme of England; Forbearing onely for the preſent that any thing herein conteined doe extend to any Legall proceeding, Inſtrument, or Aſſu<g ref="char:EOLhyphen"/>rance, vntill further Order be taken in that behalfe.</p>
+            <closer>
+               <dateline>Giuen at our Pallace of Weſtminſter <date>the twentieth day of October, in the ſecond yeere of our Raigne of England, France and Ireland, and of Scotland the eight and thirtieth.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent <hi>Maieſtie.</hi>
+            </p>
+            <p>ANNO DOM. 1604.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
